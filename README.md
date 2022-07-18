@@ -11,7 +11,7 @@
 
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1WiGWmGOoVfBEE0xha_MyEVmhjxAQMD1z/view)
 
-- ⚡ Fun fact **I am not a Robot (Google Told Me So!)**
+- ⚡ Fun fact **I'm not a robot (Google Told Me So!)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
