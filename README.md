@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on *Unitree AlienGo Navigation*
 
-- 🌱 I’m currently learning *Visual-SLAM*
+- 🌱 I’m currently learning *Model Predictive Control*
 
 - 👨‍💻 All of my projects are available at [guru-narayana](https://github.com/guru-narayana)
 
