@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gurunarayana100@gmail.com**
 
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1WiGWmGOoVfBEE0xha_MyEVmhjxAQMD1z/view)
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1NF-nGOm3YQNMc3ue3smkeQomq_Wyro_g/view?usp=sharing)
 
 - ⚡ Fun fact **I'm not a robot (Google Told Me So!)**
 
