@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nara Guru Narayanaswamy</h1>
 <h3 align="center">A passionate Roboticist from India</h3>
 
-- 🔭 I’m currently working on *Unitree AlienGo Navigation*
 
-- 🌱 I’m currently learning *Model Predictive Control*
-
-- 👨‍💻 All of my projects are available at [guru-narayana](https://github.com/guru-narayana)
-
-- 📫 How to reach me **gurunarayana100@gmail.com**
-
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1NF-nGOm3YQNMc3ue3smkeQomq_Wyro_g/view?usp=sharing)
-
-- ⚡ Fun fact **I'm not a robot (Google Told Me So!)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
